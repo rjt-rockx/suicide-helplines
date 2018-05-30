@@ -182,10 +182,74 @@
 			}
 		],
 		[
-			"Bahrain",
+			"Bangladesh",
 			{
-				"name": "Helpline",
-				"number": "0097161199188"
+				"name": "Kaan Pete Roi (Grameenphone - 1)",
+				"number": "01779554391"
+			},
+			{
+				"name": "Kaan Pete Roi (Grameenphone - 2)",
+				"number": "01779554392"
+			},
+			{
+				"name": "Kaan Pete Roi (Airtel - 1)",
+				"number": "01688709965"
+			},
+			{
+				"name": "Kaan Pete Roi (Airtel - 2)",
+				"number": "01688709966"
+			},
+			{
+				"name": "Kaan Pete Roi (Banglalink)",
+				"number": "01985275286"
+			},
+			{
+				"name": "Kaan Pete Roi (Robi)",
+				"number": "01852035634"
+			}
+		],
+		[
+			"Barbados",
+			{
+				"name": "Samaritans of Barbados",
+				"number": "2464299999"
+			}
+		],
+		[
+			"Belgium",
+			{
+				"name": "Tele-Onthaal",
+				"number": "106"
+			},
+			{
+				"name": "Le Centre de Prevention du Suicide",
+				"number": "080032123"
+			},
+			{
+				"name": "Awel",
+				"number":"102"
+			},
+			{
+				"name":"Vlaams Expertisecentrum Suicidepreventie",
+				"number":"1813"
+			}
+		],
+		[
+			"Bolivia",
+			{
+				"name":"Teléfono de la Esperanza (Cochabamba)",
+				"number":"0059144254242"
+			},
+			{
+				"name":"Teléfono de la Esperanza (La Paz)",
+				"number":"75288084"
+			}
+		],
+		[
+			"Botswana",
+			{
+				"name": "Lifeline",
+				"number":"3911270"
 			}
 		]
 	]
