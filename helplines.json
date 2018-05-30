@@ -1,0 +1,192 @@
+{
+	"countries": [
+		"Algeria",
+		"Argentina",
+		"Armenia",
+		"Australia",
+		"Austria",
+		"Bahamas",
+		"Bangladesh",
+		"Barbados",
+		"Belgium",
+		"Bolivia",
+		"Botswana",
+		"Brazil",
+		"Bulgaria",
+		"Canada",
+		"China",
+		"Croatia",
+		"Cyprus",
+		"Czech Republic",
+		"Denmark",
+		"Egypt",
+		"Estonia",
+		"Fiji",
+		"Finland",
+		"France",
+		"Germany",
+		"Ghana",
+		"Gibraltar",
+		"Guyana",
+		"Hong Kong",
+		"Hungary",
+		"India",
+		"Indonesia",
+		"Iran",
+		"Ireland",
+		"Israel",
+		"Italy",
+		"Japan",
+		"Latvia",
+		"Liberia",
+		"Lithuania",
+		"Luxembourg",
+		"Malaysia",
+		"Mauritius",
+		"Mexico",
+		"Namibia",
+		"Netherlands",
+		"New Zealand",
+		"North Korea",
+		"Norway",
+		"Papua New Guinea",
+		"Phillippines",
+		"Poland",
+		"Portugal",
+		"Romania",
+		"Russia",
+		"Serbia",
+		"Singapore",
+		"Slovakia",
+		"Slovenia",
+		"Somoa",
+		"South Africa",
+		"South Korea",
+		"Spain",
+		"Sri Lanka",
+		"St. Vincent",
+		"Sudan",
+		"Sweden",
+		"Switzerland",
+		"Taiwan",
+		"Thailand",
+		"Trinidad and Tobago",
+		"Turkey",
+		"Ukraine",
+		"United Kingdom",
+		"United States",
+		"Zimbabwe"
+	],
+	"helplines": [
+		[
+			"Algeria",
+			{
+				"name": "Suicide Hotline",
+				"number": "00213983200058"
+			}
+		],
+		[
+			"Argentina",
+			{
+				"name": "Centro de Atencíon al Familiar del Suicida",
+				"number": "05401147582554"
+			},
+			{
+				"name": "SOS Un Amigo Anonimo",
+				"number": "05401147838888",
+				"times": "1000-1900"
+			},
+			{
+				"name": "Teléfono de la Esperanza",
+				"number": "054011902500002"
+			},
+			{
+				"name": "Programa de Prevención, Atención y Posvención del Suicidio",
+				"number": "05401146641936"
+			}
+		],
+		[
+			"Armenia",
+			{
+				"name": "Trust Social Work and Sociological Research Centre",
+				"number": "2538194"
+			},
+			{
+				"name": "Trust Social Work and Sociological Research Centre",
+				"number": "2538197"
+			}
+		],
+		[
+			"Australia",
+			{
+				"name": "The Samaritans, Subiaco",
+				"number": "0893815555"
+			},
+			{
+				"name": "The Samaritans, Subiaco (Youth Hotline)",
+				"number": "0893882500"
+			},
+			{
+				"name": "The Samaritans, Subiaco (Toll free)",
+				"number": "1800198313"
+			},
+			{
+				"name": "Lifelink Samaritans",
+				"number": "0363313355"
+			},
+			{
+				"name": "Samaritans of Albany, WA",
+				"number": "0898422776"
+			},
+			{
+				"name": "Lifeline Australia",
+				"number": "131114"
+			},
+			{
+				"name": "Kids Helpline Australia",
+				"number": "1800551800"
+			},
+			{
+				"name": "Beyond Blue",
+				"number": "1300224636"
+			}
+		],
+		[
+			"Austria",
+			{
+				"name": "Rat Auf Draht",
+				"number": "147"
+			},
+			{
+				"name": "TelefonSeelsorge",
+				"number": "142"
+			},
+			{
+				"name": "Suicide Hotline",
+				"number": "017133374"
+			}
+		],
+		[
+			"Bahamas",
+			{
+				"name": "Crisis Centre",
+				"number": "0097161199188"
+			},
+			{
+				"name": "Crisis Centre",
+				"number": "0097161199260"
+			},
+			{
+				"name": "National Hotline",
+				"number": "3222763"
+			}
+		],
+		[
+			"Bahrain",
+			{
+				"name": "Helpline",
+				"number": "0097161199188"
+			}
+		]
+	]
+}
