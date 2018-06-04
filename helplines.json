@@ -227,29 +227,72 @@
 			},
 			{
 				"name": "Awel",
-				"number":"102"
+				"number": "102"
 			},
 			{
-				"name":"Vlaams Expertisecentrum Suicidepreventie",
-				"number":"1813"
+				"name": "Vlaams Expertisecentrum Suicidepreventie",
+				"number": "1813"
 			}
 		],
 		[
 			"Bolivia",
 			{
-				"name":"Teléfono de la Esperanza (Cochabamba)",
-				"number":"0059144254242"
+				"name": "Teléfono de la Esperanza (Cochabamba)",
+				"number": "0059144254242"
 			},
 			{
-				"name":"Teléfono de la Esperanza (La Paz)",
-				"number":"75288084"
+				"name": "Teléfono de la Esperanza (La Paz)",
+				"number": "75288084"
 			}
 		],
 		[
 			"Botswana",
 			{
 				"name": "Lifeline",
-				"number":"3911270"
+				"number": "3911270"
+			}
+		],
+		[
+			"Brazil",
+			{
+				"name": "CVV Sao Paulo - National Association",
+				"number": "551131514109",
+				"region": "Sao Paulo - SP"
+			},
+			{
+				"name": "CVV - Belem",
+				"number": "9132230074",
+				"region": "Belem - PA"
+			},
+			{
+				"name": "CVV - Belo Horizonte",
+				"number": "313344111",
+				"region": "Belo Horizonte - MG"
+			},
+			{
+				"name": "CVV - Cuiaba",
+				"number": "653214111",
+				"region": "Cuiaba - MT"
+			},
+			{
+				"name": "CVV - Curitiba",
+				"number": "413424111",
+				"region": "Curitiba - PR"
+			},
+			{
+				"name": "CVV - Fortaleza",
+				"number": "8534651010",
+				"region": "Fortaleza - CE"
+			},
+			{
+				"name": "CVV - Goiania",
+				"number": "622234041",
+				"region": "Goiania - GO"
+			},
+			{
+				"name": "CVV - Joao Pessoa",
+				"number": "832414111",
+				"region": "Joao Pessoa - PB"
 			}
 		]
 	]
