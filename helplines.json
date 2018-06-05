@@ -298,6 +298,36 @@
 				"name": "CVV - Natal",
 				"number": "8432214111",
 				"region": "Natal - RN"
+			},
+			{
+				"name": "CVV - Porto Alegre",
+				"number": "512246111",
+				"region": "Porto Alegre - RS"
+			},
+			{
+				"name": "CVV - Rio de Janeiro",
+				"number": "212339191",
+				"region": "Rio de Janeiro - RJ"
+			},
+			{
+				"name": "CVV - Copacabana",
+				"number": "212360536",
+				"region": "Rio de Janeiro - RJ"
+			},
+			{
+				"name": "CVV - Vitoria",
+				"number": "272234111",
+				"region": "Vitoria - ES"
+			},
+			{
+				"name": "CVV - Americana",
+				"number": "194604111",
+				"region": "Americana - SP"
+			},
+			{
+				"name": "Araraquara",
+				"number": "162364111",
+				"region": "Araraquara - SP"
 			}
 		]
 	]
